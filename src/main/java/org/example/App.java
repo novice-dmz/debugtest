@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class App {
     private static int i;
     public static void main(String[] args) {
-        System.out.println(1/0);
+//        System.out.println(1/0);
         ArrayList<Integer> arrayList = new ArrayList();
         for (i = 0; i < 100; i++) {
             arrayList.add(i);
